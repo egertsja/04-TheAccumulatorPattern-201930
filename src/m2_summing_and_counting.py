@@ -8,7 +8,7 @@ in another classic form:
    IN GRAPHICS:   x = x + pixels
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
-         Aaron Wilkin, their colleagues, and Jonah Egertson and Katherine Barrientos Morenos.
+         Aaron Wilkin, their colleagues, and Jonah Egertson.
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import math
